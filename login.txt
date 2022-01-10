@@ -1,0 +1,14 @@
+function1 login
+input username and password
+compare db
+redirect to admin page
+
+else 
+redirect error message
+
+
+funtion2 del user
+
+
+funtion3 add user
+
